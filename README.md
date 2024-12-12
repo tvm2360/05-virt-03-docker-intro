@@ -30,7 +30,7 @@ docker run -d -p 127.0.0.1:8080:81 -it --name custom-nginx-t2 --rm tvm2360/custo
 
 Задача 5
 -
-1.   По умолчанию первый compose.yaml, затем docker-compose.yaml (остался в перечне для обрптной совместимости). 
+1.   По умолчанию первый compose.yaml, затем docker-compose.yaml (остался в перечне для обратной совместимости). 
 
 2.   [compose.yaml](2024-12-12_14-12-32.png)
 
@@ -39,3 +39,7 @@ docker run -d -p 127.0.0.1:8080:81 -it --name custom-nginx-t2 --rm tvm2360/custo
 4-5. [Screen](2024-12-12_13-32-06.png)
 
 6.   [Screen](2024-12-12_13-37-12.png)
+
+7.   [Warning](2024-12-12_14-24-10.png)
+
+Найдены контейнеры, которые не описаны в файле. Для их очистки нужно выполнить команду с --remove-orphans.
