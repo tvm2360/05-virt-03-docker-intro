@@ -30,11 +30,12 @@ docker run -d -p 127.0.0.1:8080:81 -it --name custom-nginx-t2 --rm tvm2360/custo
 
 Задача 5
 -
-1. Docker-compose.yaml. Без явного указания имени с ключем -f, docker-compose.yaml является файлом с конфигурацией по-умолчанию
+1.   Docker-compose.yaml. Без явного указания имени с ключем -f, docker-compose.yaml является файлом с конфигурацией по-умолчанию
 
-2. [compose.yaml](2024-12-12_12-54-05.png)
+2.   [compose.yaml](2024-12-12_12-54-05.png)
 
-3. [Console](2024-12-12_13-08-43.png)
+3.   [Console](2024-12-12_13-08-43.png)
+ 
+4-5. [Screen](2024-12-12_13-32-06.png)
 
-4-5. [Screen](2024-12-12_13-13-32.png)
-
+6.   [Screen](2024-12-12_13-37-12.png)
