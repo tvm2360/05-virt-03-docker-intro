@@ -35,3 +35,6 @@ docker run -d -p 127.0.0.1:8080:81 -it --name custom-nginx-t2 --rm tvm2360/custo
 2. [compose.yaml](2024-12-12_12-54-05.png)
 
 3. [Console](2024-12-12_13-08-43.png)
+
+4-5. [Screen](2024-12-12_13-13-32.png)
+
