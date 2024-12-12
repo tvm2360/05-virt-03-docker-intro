@@ -26,5 +26,5 @@ docker run -d -p 127.0.0.1:8080:81 -it --name custom-nginx-t2 --rm tvm2360/custo
 Задача 4
 -
 
-
+[Console](2024-12-12_12-34-29.png)
 
