@@ -32,3 +32,4 @@ docker run -d -p 127.0.0.1:8080:81 -it --name custom-nginx-t2 --rm tvm2360/custo
 -
 1. Docker-compose.yaml. Без явного указания имени с ключем -f, docker-compose.yaml является файлом с конфигурацией по-умолчанию
 
+2. [compose.yaml](2024-12-12_12-54-05.png)
